@@ -3,7 +3,7 @@
 <body>
 
 <h2>JavaScript switch</h2>
-
+<h1>Welcome Sir<h1>
 <p id="demo"></p>
 
 <script>
